@@ -1,12 +1,12 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Snare for Linux - audit subsystem control and distribution
 Name:		SnareLinux
-Version:	1.5.1
+Version:	2.1.0
 Release:	0.1
 License:	GPL
 Group:		Applications/System
 Source0:	http://www.intersectalliance.com/projects/SnareLinux/Download/SnareLinux-%{version}.tar.gz
-# Source0-md5:	1d469d169e7a3aecfb36b34a7fd1f90b
+# Source0-md5:	7d96f9277fb006271d819e766f13d29b
 URL:		http://www.intersectalliance.com/
 BuildRequires:	audit-libs-devel >= 1.0.16
 BuildRequires:	rpm-perlprov >= 4.1-13
