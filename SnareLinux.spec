@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	Snare for Linux - audit subsystem control and distribution
 Name:		SnareLinux
 Version:	2.1.0
